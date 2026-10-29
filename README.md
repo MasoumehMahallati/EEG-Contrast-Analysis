@@ -16,7 +16,7 @@ This repository contains MATLAB scripts used for EEG data processing, decoding a
 
 ## Requirements
 
-MATLAB and any additional toolboxes or external functions required by the scripts. Please check the scripts for specific dependencies and update the data paths to match your local setup.
+MATLAB, eeglab 2022 and later 
 
 ## Data Availability
 
